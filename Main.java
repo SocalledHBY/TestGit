@@ -11,4 +11,8 @@ class Main {
     public String method2() {
     	return "This is method2.";
     }
+
+    public String methodSub() {
+    	return "This is methodSub.";
+    }
 }
