@@ -7,4 +7,8 @@ class Main {
     public String method1() {
     	return "This is method1.";
     }
+
+    public String method2() {
+    	return "This is method2.";
+    }
 }
