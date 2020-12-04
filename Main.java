@@ -3,4 +3,8 @@ class Main {
         // 第二版
         System.out.println("Hello World!");
     }
+
+    public String method1() {
+    	return "This is method1.";
+    }
 }
